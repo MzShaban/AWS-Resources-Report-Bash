@@ -172,21 +172,4 @@ This script automates AWS resource discovery, making it easier to track EC2 inst
 
 ---
 
-## How to Push `README.md` to GitHub
-1. Navigate to your project directory:
-   ```sh
-   cd /path/to/your/project
-   ```
-2. Create and open `README.md`:
-   ```sh
-   nano README.md
-   ```
-3. Paste the above content and save it (`CTRL + X`, then `Y`, then `Enter`).
-4. Commit and push to GitHub:
-   ```sh
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
-   ```
 
-Now, your `README.md` file is uploaded to your GitHub repository!
